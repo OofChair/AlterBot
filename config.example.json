@@ -1,0 +1,19 @@
+{
+  "TOKEN": "DISCORDBOTTOKEN",
+  "MAIN_USER_ID": "DISCORDUSERID",
+  "CURRENT_ALTER_CHANNEL_ID": "CHANNELID",
+  "GUILD_ID": "GUILDID",
+  "ROLE_ID": "ROLEID",
+  "ALTERS": [{
+    "name": "EXAMPLE",
+    "emoji": "👀",
+    "adviseFriends": true,
+    "pronouns": "they/them"
+  },
+  {
+    "name": "Disassociating",
+    "emoji": "❓",
+    "adviseFriends": false,
+    "pronouns": "not-applicable"
+  }]
+}
