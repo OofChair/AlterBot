@@ -13,6 +13,6 @@ Copy the config.example.json to a file named config.json and fill in the neccesa
 
 To Start the Bot (Run this in a terminal in the bots folder):
 Yarn (Preferred): "yarn start"
-NPM: "npm run start"
+NPM: "npm install && npm run start"
 
 ```
